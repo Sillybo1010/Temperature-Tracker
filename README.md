@@ -25,7 +25,7 @@ A menu-driven Python application that reads, analyzes, and summarizes daily temp
  
 ---
  
-## 🖥️ Usage
+## Usage
  
 When launched, the program automatically reads and processes the data file, then presents an interactive menu:
  
@@ -61,7 +61,7 @@ Average of Average Temps
  
 ---
  
-## 💾 Output — `temps_stats.json`
+## Output — `temps_stats.json`
  
 Selecting option 5 saves the computed statistics to a JSON file:
  
@@ -77,7 +77,7 @@ Selecting option 5 saves the computed statistics to a JSON file:
  
 ---
  
-## 🛡️ Error Handling
+## Error Handling
  
 The application handles the following exceptions gracefully across all functions:
  
@@ -93,7 +93,7 @@ The application handles the following exceptions gracefully across all functions
  
 ---
  
-## 🛠️ Built With
+## Built With
  
 - **Python 3** — Core language
 - **csv** — Parsing tab-delimited input data
